@@ -1,0 +1,26 @@
+==================================================
+          RELATÓRIO DE ANÁLISE DE DADOS           
+==================================================
+Total de registros: 4
+Registros válidos: 3
+Registros inválidos: 1
+Percentual válido: 75.0%
+
+REGISTROS VÁLIDOS
+--------------------------------------------------
+Linha 2: Ana Silva
+Linha 3: Bruno Costa
+Linha 5: Diego Lima
+
+REGISTROS INVÁLIDOS
+--------------------------------------------------
+Linha 4:
+  - E-mail: E-mail inválido.
+  - CPF: CPF inválido.
+  - Data: Data inexistente.
+
+MENSAGENS
+--------------------------------------------------
+Arquivo processado com sucesso.
+Leitura do arquivo finalizada.
+==================================================
