@@ -1,5 +1,4 @@
 #Desafio 1 - Classificador de Cliente (if / elif / else).
-
 idade = int(input("Digite a idade do cliente: "))
 renda = float(input("Digite a renda mensal (R$): ").replace(",", "."))
 
