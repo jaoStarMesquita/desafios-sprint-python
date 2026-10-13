@@ -1,18 +1,11 @@
 #Módulo calculadora: operações matemáticas básicas.
 def somar(primeiro_numero, segundo_numero):
-    """Retorna a soma de dois números."""
     return primeiro_numero + segundo_numero
 def subtrair(primeiro_numero, segundo_numero):
-    """Retorna a subtração do segundo número pelo primeiro."""
     return primeiro_numero - segundo_numero
 def multiplicar(primeiro_numero, segundo_numero):
-    """Retorna o produto de dois números."""
     return primeiro_numero * segundo_numero
 def dividir(dividendo, divisor):
-    """Retorna a divisão de dois números.
-    Se o divisor for zero, exibe uma mensagem de erro e retorna None,
-    sem quebrar o programa.
-    """
     if divisor == 0:
         print("Erro: não é possível dividir por zero.")
         return None
