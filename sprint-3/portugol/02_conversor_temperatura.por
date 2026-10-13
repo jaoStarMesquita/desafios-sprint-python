@@ -1,4 +1,3 @@
-// Versão em Portugol do conversor de temperatura.
 programa {
 
   funcao real celsius_para_fahrenheit(real celsius) {
