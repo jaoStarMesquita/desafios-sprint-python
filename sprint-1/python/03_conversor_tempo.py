@@ -1,6 +1,4 @@
-# ---------------------------------------------------------------
 # Desafio 3 - Conversor de tempo
-# ---------------------------------------------------------------
 print("\n=== Desafio 3: Conversor de tempo ===")
 total_segundos = int(input("Digite o tempo em segundos: "))
 
