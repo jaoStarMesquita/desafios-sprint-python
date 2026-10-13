@@ -1,4 +1,3 @@
-
 programa {
   funcao inicio() {
     inteiro opcao
