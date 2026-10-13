@@ -1,5 +1,6 @@
-
-"""Calculadora de troco."""
+# ---------------------------------------------------------------
+# Desafio 1 - Calculadora de troco
+# ---------------------------------------------------------------
 valor_compra = float(
     input("Valor da compra: R$ ").replace(",", "."))
 valor_pago = float(
