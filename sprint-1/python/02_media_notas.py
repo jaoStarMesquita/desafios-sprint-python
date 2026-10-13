@@ -1,6 +1,4 @@
-# ---------------------------------------------------------------
 # Desafio 2 - Média de notas
-# ---------------------------------------------------------------
 print("\n=== Desafio 2: Média de notas ===")
 nota_1 = ler_float("Digite a 1ª nota: ")
 nota_2 = ler_float("Digite a 2ª nota: ")
