@@ -1,4 +1,3 @@
-// Versão em Portugol de calculadora.py
 programa {
 
   funcao real somar(real a, real b) {
