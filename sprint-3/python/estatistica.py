@@ -1,25 +1,18 @@
 #Módulo estatistica: média, mediana e moda de uma lista de números.
 def _validar(numeros):
-    """Garante que a lista não está vazia."""
     if not numeros:
-        raise ValueError("A lista não pode estar vazia.")
-      
+        raise ValueError("A lista não pode estar vazia.")      
 def media(numeros):
-    """Retorna a média aritmética."""
     _validar(numeros)
-    return sum(numeros) / len(numeros)
-  
+    return sum(numeros) / len(numeros) 
 def mediana(numeros):
-    """Retorna a mediana (valor central da lista ordenada)."""
     _validar(numeros)
     ordenados = sorted(numeros)  # sorted() não altera a lista original
     meio = len(ordenados) // 2
     if len(ordenados) % 2 == 1:
         return ordenados[meio]
     return (ordenados[meio - 1] + ordenados[meio]) / 2
-  
 def moda(numeros):
-    """Retorna uma lista com o(s) valor(es) mais frequente(s)."""
     _validar(numeros)
     frequencias = {}
     for numero in numeros:
