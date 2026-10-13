@@ -1,6 +1,4 @@
-# ---------------------------------------------------------------
 # Desafio 4 - Calculadora de desconto
-# ---------------------------------------------------------------
 print("\n=== Desafio 4: Calculadora de desconto ===")
 preco_produto = ler_float("Preço do produto: R$ ")
 percentual_desconto = ler_float("Percentual de desconto (%): ")
