@@ -11,7 +11,7 @@ Repositório acadêmico destinado à organização dos entregáveis da disciplin
 - **Sprint 5:** Sistema de análise de dados
 - **Sprint 6:** Programação Orientada a Objetos
 
-## Tecnologias
+## Tecnologias utilizadas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python 3">
