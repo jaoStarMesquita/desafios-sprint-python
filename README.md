@@ -13,8 +13,17 @@ Repositório acadêmico destinado à organização dos entregáveis da disciplin
 
 ## Tecnologias
 
-- Python 3
-- Git e GitHub
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python 3">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub">
+</div>
+
+<div align="center">
+  Python 3 • Git • GitHub
+</div>
 
 ## Objetivo
 
